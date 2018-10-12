@@ -16,3 +16,7 @@ have to be accounted for are **rotation**, **velocity**, etc.
 Once the areas/regions that have been predicted as being in the hazard zones have been identified, a list of various measures that might have
 to be taken will be shown. One example would be predicting the closest and safest regions for evacuating the people from the areas in the hurricane's
 path.
+
+### Implementation:
+
+### Technologies used:
