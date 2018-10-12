@@ -19,11 +19,15 @@ to be taken will be shown. One example would be predicting the closest and safes
 
 1. Retrieval of satellite weather images.
    - This will be accomplished using Python library(s) like SatPy which can retrieve satellite images.
+
 2. Processing of weather images to detect cloud formations.
    - This will use image processing algorithms using neural network structures.
+
 3. Finding patterns in cloud formations.
+
 4. Using formations information to determine/predict cloud motion by taking into account various other factors(rotation, velocity, etc.)
    - This can be accomplished using the optical flow technique, applied between adjacent images.
+
 5. Using the predictions to check areas that will likely be affected.
    - Cross-verifing the path of the predicted cloud formation with pre-loaded maps.
 
