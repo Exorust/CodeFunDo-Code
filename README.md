@@ -1,6 +1,9 @@
-# Hurricane Predictor
+Hurricane Predictor
+=====================
 
-**Brief Description**
+**An application to predict hurricanes and help cities plan and prepare.**
+
+### Brief Description
 
 This application aims to predict hurricanes using **satellite imagery** and accordingly predict what course of action would be appropriate
 according to the current status of the hurricane. It also aims to predict the **level of hazard** to the areas that are in the or surrounding the
